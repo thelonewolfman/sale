@@ -1,0 +1,1 @@
+require('./sale_order');
